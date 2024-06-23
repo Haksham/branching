@@ -18,3 +18,7 @@ git merge edits -m "message" // to merger edits in main(master) branch
 git remote add origin URL
 git branch -d branch_name //to delete a branch locally
 git push origin --delete remoteBranchName // delete brancvh remotely
+
+git branch // to see all branch and current branch
+git branch -a  //To see all local and remote branches
+git branch -r //To see all local and remote branches
