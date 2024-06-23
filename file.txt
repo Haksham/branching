@@ -22,3 +22,4 @@ git push origin --delete remoteBranchName // delete brancvh remotely
 git branch // to see all branch and current branch
 git branch -a  //To see all local and remote branches
 git branch -r //To see all local and remote branches
+git fetch // to update local files from github
