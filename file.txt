@@ -10,3 +10,5 @@ git branch name
 
 git checkout name // to change the branch
 git checkout master // for main branch
+
+git merge edits // to merger edits in main(master) branch
