@@ -14,3 +14,5 @@ git checkout master // for main branch
 git merge edits // to merger edits in main(master) branch
 delete content not required in merge conflict or add something different entirely then add and commit
 git merge edits -m "message" // to merger edits in main(master) branch 
+
+git push origin name // 1st as main branch
