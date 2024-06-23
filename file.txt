@@ -1,2 +1,12 @@
 hello
-rfdsf
+rfdsfq
+
+git init
+git add .
+git commit -m "something"
+git status
+git log --all --graph
+git branch name
+
+git checkout name // to change the branch
+git checkout master // for main branch
